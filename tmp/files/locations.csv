@@ -1,0 +1,178 @@
+location_id	location_name
+2080	Playpass Office
+2081	Back Office Initializer 
+2082	Back Office Swap
+2083	Back Office Linking
+2084	Ticket Check In Linking
+2085	Guest List Initializer
+2086	Guest List Swap
+2087	Guest List Linking
+2088	Info Point Initializer
+2089	Info Point Swap
+2090	Info Point Linking
+2091	Helpdesk Balance Check
+2092	Helpdesk Initializer
+2093	Helpdesk Swap
+2094	Helpdesk Linking
+2095	Artist Check in Initializer
+2096	Artist Check in Swap
+2097	Crew Check in Initializer
+2098	Crew Check in Swap
+2099	Crew Check in Linking
+2100	Gastro Crew Check in Initializer
+2101	Gastro Crew Check in Linking
+2102	Bloc Party Linking
+2108	C: B: Vip02-Barista kaffee sweets
+2109	C: Supermarkt-Goldkorn
+2110	B: Glambing
+2111	C: B: Biergarten
+2112	C: Mobil-Goldkorn Verkauf-Kaffee
+2113	C: C01-Goldkorn Fruhstuck 1
+2114	C: C02-Goldkorn Fruhstuck 2
+2115	C: C03-Goldkorn Cafe Leberkas
+2116	C: B: Vip01-Barista kaffee bier
+2117	B: Sleepless Mischbar 1+2
+2118	C: C04-Helgaa campingbedarf
+2119	C: C05-Asian Drive fingerfood
+2120	C: C06-Chris Hamberger pommes burger
+2121	C: C07-Asian Drive Asian Food
+2122	C: C08-Pizza Mario-Pizza
+2123	C: C09-Can Doner Doner
+2124	C: C10-Party Fuchse Fischwaren
+2125	C: C11-Ideas Gastro burritto
+2126	C: C12-Fhainheiten nice fries
+2127	L: Linking Feropolis Sing
+2128	C: C13-Brand Booking Cheebab
+2129	C: C14-Bewaffel Dich waffeln
+2130	C: C15-Diwa Frost schneeeis
+2133	C: C18-L.E. Gendaires Crepes crepes
+2134	C: C19-Imbizan pulled pork beef
+2135	C: C20-Bauchgefuhl Berlin eis am stiel
+2136	B: B23
+2137	B: B02-Tentickel Mischbar 1+2
+2141	F: F03-Quaisers nusse zuckerwatte
+2144	F: F06-Pizza Mario pizza
+2145	F: F07-Asian Drive asian food
+2146	F: F08-Hanbrotzeit handbrot
+2147	F: F09-L.E. Gendaires Crepes crepes
+2148	F: F10-Chris Hamberger falafel
+2149	F: F11-Imbizan pulled pork beef
+2150	F: F12-Fish&Chips Manufaktur fish chips
+2151	F: F13-Butcher currywurst pommes
+2152	F: F14-Barista kaffee sweets
+2153	F: F15-Burgermanufaktur burger pommes
+2154	F: F16-Slawische Maultaschen
+2155	F: F17-Georgs Event knoblauchbrot
+2156	F: F18-Ideas Gastro burrittos
+2157	F: F19-Bewaffel Dich pasta
+2158	F: F20-Bewaffel Dich waffeln
+2159	F: F21-Brand Booking raclette
+2160	F: F22-Event Tour roster/steak
+2161	F: F23-Fhainheiten nice fries
+2162	F: F24-Fhainheiten langos
+2163	F: F25-Hirsch&Eber burger pommes
+2164	F: F26-Can Doner doner
+2166	F: F28-Pic Nic 34 sandwiches piadina
+2167	F: F29-Reger Burger veggie burger pommes
+2168	F: F30-Heisser Hobel allgauer kasspatzen
+2169	F: F31-Bewaffel Dich cookie dough
+2174	F: F36-Handbrotzeit handbrot
+2175	B: S:American Spirit Bar
+2176	S: American Spirit cigarettes
+2177	B: S:Jagermeister
+2179	S: Volt aps
+2180	B: B03-Trussbar Mischbar 1+2
+2181	B: B04-Blechbar Mischbar 1+2
+2182	B: B05-Rumbar Mischbar 1+2
+2183	B: B06-Blechbar Mischbar 1+2
+2184	B: B07-Trussbar Mischbar 1+2
+2185	B: B08-Pagode Mischbar 1+2
+2186	B: B09-ASW asw
+2187	B: B11-Tentickel Mischbar 1+2
+2188	B: B12-Blau Beach Mischbar 1+2
+2189	B: B13-Trussbar Mischbar 1+2
+2190	B: B14-Red Bull Wigwam RB Bier
+2191	B: B15-ASW asw
+2192	B: B16-Red Bull Apollo Mischbar 1+2
+2193	B: B17-Container 6m Mischbar 1+2
+2194	B: B18-Container 10 fuss Mischbar 1+2
+2195	B: B19-Tentickel Greenstage Mischbar 1+2
+2196	B: B20-Baumhaus baumhaus
+2197	B: B21-ASW asw
+2198	B: C01-Pagode Cocktails Matzke
+2199	B: C02-Pagode Cocktails Matzke
+2200	B: C03-Trussbar Cocktails Conny
+2201	B: VIP-Bar vip bar 1+2
+2202	B: Sevilla Bar Tanqueray Bar sevilla
+2204	NF: Dusch&WC Stationen
+2205	NF: Flatshop/Infopoint/GL Kasse
+2206	NF: Co-Creagency
+2207	NF: Goldeimer
+2208	NF: Mullpfand
+2209	NF: Postamt
+2210	NF: Victim Brand
+2211	NF: Carderobe
+2212	NF: Ranftl und Fitz
+2213	NF: Ticket To The Moon
+2214	NF: Utopia
+2215	NG: Foodsharing
+2216	NG: Jugend Gegen Aids
+2218	NG: SOS Mediterranee
+2220	NG: Viva Con Agua De Sankt Pauli
+2221	L: Linking Bundesstrasse
+2222	L: Linking Lake
+2223	Helpdesk Money Maker/Taker
+2224	T: Topup 01
+2225	T: Topup 02
+2226	T: Topup 03
+2227	T: Topup 04
+2228	T: Topup 05
+2229	T: Topup 06
+2230	T: Topup 07
+2231	T: Topup 08
+2232	T: Topup 09
+2233	T: Topup 10
+2234	T: Topup 11
+2235	T: Topup 12
+2236	T: Topup 12
+2237	T: Topup 13
+2238	T: Topup 14
+2239	T: Topup 15
+2240	T: Topup 16
+2241	T: Topup 17
+2242	T: Topup 18
+2243	T: Topup 19
+2244	T: Topup 20
+2245	T: Topup 21
+2246	T: Topup 22
+2247	T: Topup 23
+2248	T: Topup 24
+2249	T: Topup 25
+2250	T: Topup 26
+2251	T: Topup 27
+2252	T: Topup Sponsor
+2253	B: B00-ASW asw
+2254	T: Topup Artists
+2255	T: Topup 28
+2256	C: Mobil Bauchgefuhl Berlin
+2257	T: Topup 6.5
+2258	S: Merch Artist
+2259	NF: Killnoise
+2260	B: Artist Bar
+2261	B: Artist Bar Jaegermeister
+2262	B: Wasser
+2263	C: C16: Fritusalim
+2264	C: C17: Grün & Gut
+2265	F: F27: Möllers Köttbullar
+2266	F: F32: Barista
+2267	F: F33: Alpentruck
+2268	F: F34: Bauchgefühl Berlin
+2269	SLEEP: Mobile Coffee Bar Ebenberger
+2270	NG: The Ocean in your mind
+2271	C: Supermarkt Drinks
+2272	Guestlist Linking + Artists
+2274	NG: Aids Hilfe
+2275	Helpdesk Friday
+2276	S: Merchandise
+2277	B: Road Runner Bar
+2278	NF: VLK Berlin Pornceptual
